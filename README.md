@@ -6,7 +6,7 @@
 ├── .gitignore
 ```
 
-# US States Guessing Game 🇺🇸
+# US States Guessing Game 🤔
 
 A turtle-based game to guess US states!
 
